@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+
+.p {
+  color: red;
+}
+
+h1 {
+	color: black;
+}
+
+.title {
+  font-size: 50px
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}
+
+.evolution_arrow {
+  font-size: 50px;
+}
