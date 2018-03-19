@@ -1,2 +1,3 @@
-let changeMe = true;
-changeMe = false;
+let notDefined;
+let valueless;
+console.log(valueless);
